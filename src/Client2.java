@@ -1,4 +1,4 @@
-package client;
+
 
 import java.net.*;
 import java.io.*;
@@ -9,10 +9,10 @@ public class Client2 {
     public static void main(String[] args) {
         final int port = 5000;
         final String host = "localhost";
+
         Scanner scanner = new Scanner(System.in);
         DataOutputStream out = null;
         DataInputStream in = null;
-        DataInputStream stdIn = new DataInputStream(System.in);
         try {
             Socket clientSocket = new Socket(host, port);
             System.out.println("Socket created.");
