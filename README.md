@@ -1,12 +1,12 @@
-# tictactoe-on-servlets
+# tictactoe-on-sockets
 
-Simple command line Tic-Tac-Toe game, which is build with Java Servlets
+Simple command line Tic-Tac-Toe game, which is build with Java Sockets
 
 Instruction How to play:
 
 Clone repo an go to compiled directory:
 
-```git clone https://github.com/kornatskyi/tictactoe-on-servlets.git```
+```git clone https://github.com/kornatskyi/tictactoe-on-sockets.git```
 
 ```cd tictactoe-on-servlets/compiled```
 
